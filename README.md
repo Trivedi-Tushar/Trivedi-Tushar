@@ -29,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trivedi-tushar&show_icons=true&locale=en&layout=compact" alt="trivedi-tushar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trivedi-tushar&show_icons=true&locale=en" alt="trivedi-tushar" /></p>
+
